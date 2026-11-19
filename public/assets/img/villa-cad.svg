@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1005" role="img" aria-label="CAD line drawing of the contemporary villa">
+  <defs>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#1D2A3A" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1800" height="1005" fill="#FFFFFF"/>
+  <rect width="1800" height="1005" fill="url(#grid)"/>
+  <g fill="none" stroke="#1D2A3A" stroke-linejoin="round" stroke-linecap="round">
+    <!-- roof parapet and upper volume -->
+    <g stroke-width="2">
+      <path d="M457 217 L960 77 L1075 137 L1265 97 L1300 112"/>
+      <path d="M457 217 V248"/>
+      <path d="M1030 62 L1160 40 L1265 97" stroke-width="1.4"/>
+    </g>
+    <!-- overhang fascia (cantilevered roof frame) -->
+    <g stroke-width="2.6">
+      <path d="M395 262 L960 122 L1093 167 L1330 120 L1520 252"/>
+      <path d="M395 274 L960 140 L1093 181 L1330 136 L1515 266" stroke-width="1.4"/>
+      <path d="M395 262 V534"/>
+      <path d="M1520 252 V520"/>
+    </g>
+    <!-- soffit back line and frame inner edge -->
+    <g stroke-width="1.3">
+      <path d="M407 276 L727 236 M1075 175 L1093 181 M1335 150 L1505 268"/>
+      <path d="M407 276 V512"/>
+      <path d="M1505 268 V500"/>
+    </g>
+    <!-- vertical timber panels (left and right) -->
+    <g stroke-width="1.3">
+      <path d="M462 280 V510"/>
+      <path d="M418 280 V510 M429 279 V510 M440 278 V510 M451 277 V510" stroke-width=".7" stroke-opacity=".7"/>
+      <path d="M1415 275 V495"/>
+      <path d="M1430 280 V495 M1445 285 V496 M1460 291 V497 M1475 297 V498 M1490 303 V499" stroke-width=".7" stroke-opacity=".7"/>
+    </g>
+    <!-- first-floor walls -->
+    <g stroke-width="2">
+      <path d="M727 236 V475"/>
+      <path d="M1075 175 V475"/>
+    </g>
+    <!-- horizontal timber cladding on the projecting box -->
+    <g stroke-width=".7" stroke-opacity=".7">
+      <path d="M727 260 L1075 205 M727 285 L1075 232 M727 310 L1075 259 M727 335 L1075 286 M727 360 L1075 313 M727 385 L1075 340 M727 410 L1075 367 M727 435 L1075 394 M727 460 L1075 421"/>
+    </g>
+    <!-- first-floor windows -->
+    <g stroke-width="1.8">
+      <path d="M504 325 H534 V462 H504 Z"/><path d="M519 330 V458" stroke-width=".8"/>
+      <path d="M621 300 H656 V450 H621 Z"/><path d="M638 305 V446" stroke-width=".8"/>
+      <path d="M762 277 L915 249 L915 410 L762 430 Z" fill="#FFFFFF"/>
+      <path d="M820 267 V423 M870 258 V416" stroke-width="1.2"/>
+    </g>
+    <!-- balcony sliding doors (full height to balcony floor) -->
+    <g stroke-width="1.8">
+      <!-- side-wall door -->
+      <path d="M990 253 L1060 267 L1060 452 L990 461 Z" fill="#FFFFFF"/>
+      <path d="M996 260 L1054 271 L1054 449 L996 456 Z" stroke-width=".9"/>
+      <path d="M1025 262 V457" stroke-width="1.1"/>
+      <!-- front balcony door -->
+      <path d="M1090 278 L1205 260 L1205 433 L1090 448 Z" fill="#FFFFFF"/>
+      <path d="M1097 284 L1198 268 L1198 429 L1097 443 Z" stroke-width=".9"/>
+      <path d="M1148 270 V440" stroke-width="1.1"/>
+      <!-- right balcony door -->
+      <path d="M1315 280 L1382 290 L1382 469 L1315 445 Z" fill="#FFFFFF"/>
+      <path d="M1321 287 L1376 295 L1376 464 L1321 444 Z" stroke-width=".9"/>
+      <path d="M1348 285 V456" stroke-width="1.1"/>
+    </g>
+    <!-- sliding arrows -->
+    <g stroke-width=".9" stroke-opacity=".75">
+      <path d="M1004 360 h16 m-5 -4 l5 4 l-5 4 M1046 360 h-16 m5 -4 l-5 4 l5 4"/>
+      <path d="M1112 356 h26 m-6 -4 l6 4 l-6 4 M1184 354 h-26 m6 -4 l-6 4 l6 4"/>
+      <path d="M1327 372 h14 m-5 -4 l5 4 l-5 4 M1370 375 h-14 m5 -4 l-5 4 l5 4"/>
+    </g>
+    <!-- first-floor slab band -->
+    <g stroke-width="2.4">
+      <path d="M395 512 L960 460 M395 534 L960 485"/>
+      <path d="M940 470 L1260 427 L1520 520 M940 486 L1260 445 L1515 534" />
+    </g>
+    <!-- balcony glass balustrade -->
+    <g stroke-width="1.6">
+      <path d="M967 382 L1285 342 L1505 432"/>
+      <path d="M967 382 V465 M1285 342 V430 M1505 432 V516"/>
+      <path d="M1030 400 l40 -50 M1150 385 l40 -50 M1340 395 l40 -20 M1420 430 l40 -20" stroke-width=".7" stroke-opacity=".6"/>
+    </g>
+    <!-- ground floor walls -->
+    <g stroke-width="2.2">
+      <path d="M454 534 V872"/>
+      <path d="M1022 495 V860"/>
+      <path d="M1305 500 V745"/>
+      <path d="M1467 520 V735"/>
+    </g>
+    <!-- ground-floor openings -->
+    <g stroke-width="1.8">
+      <path d="M547 600 H652 V710 H547 Z" fill="#FFFFFF"/><path d="M600 600 V710" stroke-width="1"/>
+      <path d="M737 574 H950 V805 H737 Z"/>
+      <path d="M757 590 H932 V795 H757 Z" fill="#FFFFFF" stroke-width="1.2"/>
+      <path d="M820 590 V795 M880 590 V795" stroke-width="1.1"/>
+      <path d="M1090 587 H1175 V807 H1090 Z"/>
+      <path d="M1100 597 H1165 V800" stroke-width=".8"/><path d="M1158 680 v40" stroke-width="2"/>
+      <path d="M1365 587 H1447 V715 H1365 Z" fill="#FFFFFF"/><path d="M1406 587 V715" stroke-width="1"/>
+    </g>
+    <!-- entrance steps -->
+    <g stroke-width="1.3"><path d="M1010 807 H1175 M1000 825 H1175 M990 842 H1175 M980 860 H1175"/></g>
+    <!-- wall lights -->
+    <g stroke-width="1.2"><path d="M499 653 h8 v14 h-8 Z M701 653 h8 v14 h-8 Z M984 650 h8 v14 h-8 Z M1335 650 h8 v14 h-8 Z M1460 653 h8 v14 h-8 Z"/></g>
+    <!-- compound wall, gate and pier -->
+    <g stroke-width="1.8">
+      <path d="M380 707 H455 V872 H380"/>
+      <path d="M454 722 H595 V872"/>
+      <path d="M470 732 V866 M490 732 V866 M510 732 V866 M530 732 V866 M550 732 V866" stroke-width=".7" stroke-opacity=".6"/>
+      <path d="M1175 717 H1272 V900 H1175 Z"/>
+      <path d="M1272 750 L1680 720 M1272 900 L1680 880 M1680 720 V880"/>
+      <path d="M150 707 H380 M150 872 H380 M150 707 V872" stroke-width="1.4"/>
+      <path d="M182 738 H340 V820 H182 Z" stroke-width="1" stroke-dasharray="6 4"/>
+    </g>
+    <!-- ground line -->
+    <path d="M60 872 H1740" stroke-width="2.6"/>
+    <path d="M60 880 H1740" stroke-width=".8" stroke-dasharray="14 6"/>
+  </g>
+
+  <!-- level markers -->
+  <g stroke="#1D2A3A" stroke-width="1.2" fill="none">
+    <path d="M300 872 H380 M300 534 H380 M300 262 H380" stroke-dasharray="5 4"/>
+    <path d="M300 872 l-10 -14 h20 z M300 534 l-10 -14 h20 z M300 262 l-10 -14 h20 z" fill="#1D2A3A"/>
+  </g>
+  <g font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="15" fill="#1D2A3A" letter-spacing=".3" text-anchor="end">
+    <text x="284" y="866">± 0.00 GL</text>
+    <text x="284" y="528">+ 3.30 FFL</text>
+    <text x="284" y="256">+ 6.75 TOS</text>
+  </g>
+  <!-- dimensions, tags and schedule -->
+  <g>
+    <path d="M395 914 H1520 M395 884 V920 M390 919 l10 -10 M454 884 V920 M449 919 l10 -10 M737 884 V920 M732 919 l10 -10 M950 884 V920 M945 919 l10 -10 M1022 884 V920 M1017 919 l10 -10 M1075 884 V920 M1070 919 l10 -10 M1175 884 V920 M1170 919 l10 -10 M1305 884 V920 M1300 919 l10 -10 M1365 884 V920 M1360 919 l10 -10 M1447 884 V920 M1442 919 l10 -10 M1520 884 V920 M1515 919 l10 -10" stroke="#1D2A3A" stroke-width=".9" fill="none"/>
+    <text x="424" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">600</text>
+    <text x="596" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">2750</text>
+    <text x="844" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">2100</text>
+    <text x="986" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">700</text>
+    <text x="1048" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">500</text>
+    <text x="1125" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">1000</text>
+    <text x="1240" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">1250</text>
+    <text x="1335" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">600</text>
+    <text x="1406" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">800</text>
+    <text x="1484" y="909" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">700</text>
+    <path d="M395 940 H1520 M395 918 V946 M390 945 l10 -10 M1520 918 V946 M1515 945 l10 -10" stroke="#1D2A3A" stroke-width=".9" fill="none"/>
+    <text x="958" y="935" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">11000</text>
+    <path d="M112 872 V217 M106 872 H140 M107 877 l10 -10 M106 534 H140 M107 539 l10 -10 M106 262 H140 M107 267 l10 -10 M106 217 H140 M107 222 l10 -10" stroke="#1D2A3A" stroke-width=".9" fill="none"/>
+    <text x="106" y="703" text-anchor="middle" transform="rotate(-90 106 703)" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">3300</text>
+    <text x="106" y="398" text-anchor="middle" transform="rotate(-90 106 398)" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">3450</text>
+    <text x="106" y="240" text-anchor="middle" transform="rotate(-90 106 240)" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">450</text>
+    <path d="M80 872 V217 M74 872 H106 M75 877 l10 -10 M74 217 H106 M75 222 l10 -10" stroke="#1D2A3A" stroke-width=".9" fill="none"/>
+    <text x="74" y="544" text-anchor="middle" transform="rotate(-90 74 544)" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="12" fill="#1D2A3A">7200</text>
+    <g><ellipse cx="600" cy="590" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="600" y="593.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">W1</text></g>
+    <g><ellipse cx="843" cy="563" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="843" y="566.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">SD1</text></g>
+    <g><ellipse cx="1125" cy="576" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="1125" y="579.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">D1</text></g>
+    <g><ellipse cx="1406" cy="576" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="1406" y="579.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">W2</text></g>
+    <g><ellipse cx="519" cy="313" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="519" y="316.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">W3</text></g>
+    <g><ellipse cx="638" cy="288" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="638" y="291.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">W3</text></g>
+    <g><ellipse cx="838" cy="240" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="838" y="243.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">W4</text></g>
+    <g><ellipse cx="1025" cy="242" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="1025" y="245.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">SD3</text></g>
+    <g><ellipse cx="1148" cy="250" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="1148" y="253.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">SD2</text></g>
+    <g><ellipse cx="1348" cy="272" rx="17" ry="9" fill="#FFFFFF" stroke="#1D2A3A" stroke-width=".8"/><text x="1348" y="275.6" text-anchor="middle" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" font-weight="700" fill="#1D2A3A">SD3</text></g>
+    <rect x="52" y="36" width="316" height="162" fill="#FFFFFF" stroke="#1D2A3A" stroke-width="1"/>
+    <path d="M98 36 V198 M278 36 V198" stroke="#1D2A3A" stroke-width=".7"/>
+    <text x="59" y="49" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" fill="#5A6472" font-weight="700">MARK</text>
+    <text x="105" y="49" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" fill="#5A6472" font-weight="700">DESCRIPTION</text>
+    <text x="285" y="49" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" fill="#5A6472" font-weight="700">W × H</text>
+    <path d="M52 54 H368" stroke="#1D2A3A" stroke-width="1"/>
+    <text x="59" y="67" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A" font-weight="700">D1</text>
+    <text x="105" y="67" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">Main door, solid timber</text>
+    <text x="285" y="67" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">1000 × 2400</text>
+    <path d="M52 72 H368" stroke="#1D2A3A" stroke-width="0.5"/>
+    <text x="59" y="85" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A" font-weight="700">SD1</text>
+    <text x="105" y="85" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">Sliding door, living</text>
+    <text x="285" y="85" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">2100 × 2400</text>
+    <path d="M52 90 H368" stroke="#1D2A3A" stroke-width="0.5"/>
+    <text x="59" y="103" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A" font-weight="700">SD2</text>
+    <text x="105" y="103" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">Sliding door, balcony</text>
+    <text x="285" y="103" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">1800 × 2100</text>
+    <path d="M52 108 H368" stroke="#1D2A3A" stroke-width="0.5"/>
+    <text x="59" y="121" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A" font-weight="700">SD3</text>
+    <text x="105" y="121" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">Sliding door, balcony</text>
+    <text x="285" y="121" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">1200 × 2100</text>
+    <path d="M52 126 H368" stroke="#1D2A3A" stroke-width="0.5"/>
+    <text x="59" y="139" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A" font-weight="700">W1</text>
+    <text x="105" y="139" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">Window, two-panel</text>
+    <text x="285" y="139" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">1050 × 1200</text>
+    <path d="M52 144 H368" stroke="#1D2A3A" stroke-width="0.5"/>
+    <text x="59" y="157" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A" font-weight="700">W2</text>
+    <text x="105" y="157" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">Window, two-panel</text>
+    <text x="285" y="157" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">800 × 1200</text>
+    <path d="M52 162 H368" stroke="#1D2A3A" stroke-width="0.5"/>
+    <text x="59" y="175" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A" font-weight="700">W3</text>
+    <text x="105" y="175" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">Slit window</text>
+    <text x="285" y="175" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">350 × 1500</text>
+    <path d="M52 180 H368" stroke="#1D2A3A" stroke-width="0.5"/>
+    <text x="59" y="193" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A" font-weight="700">W4</text>
+    <text x="105" y="193" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">Window, three-panel</text>
+    <text x="285" y="193" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="11" fill="#1D2A3A">1500 × 1500</text>
+    <text x="130" y="209" font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" font-size="10" fill="#5A6472">ALL DIMENSIONS IN MM · INDICATIVE, CONCEPT STAGE</text>
+  </g>
+  <!-- title block -->
+  <g font-family="'Arial Narrow','Roboto Condensed',Arial,sans-serif" fill="#1D2A3A">
+    <rect x="1330" y="950" width="440" height="44" fill="#FFFFFF" stroke="#1D2A3A" stroke-width="1.2"/>
+    <path d="M1520 950 V994 M1660 950 V994" stroke="#1D2A3A"/>
+    <text x="1340" y="966" font-size="10" fill="#5A6472">PROJECT</text><text x="1340" y="986" font-size="14" font-weight="700">EDAS PROMISE · VILLA</text>
+    <text x="1530" y="966" font-size="10" fill="#5A6472">DRAWING</text><text x="1530" y="986" font-size="14" font-weight="700">FRONT VIEW</text>
+    <text x="1670" y="966" font-size="10" fill="#5A6472">SCALE</text><text x="1670" y="986" font-size="14" font-weight="700">NTS</text>
+  </g>
+</svg>
