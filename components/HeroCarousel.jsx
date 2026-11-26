@@ -59,7 +59,7 @@ export default function HeroCarousel() {
       onBlur={start}
     >
       <div {...slide(0)}>
-        <img src="/assets/img/villa-contemporary.webp" alt="" fetchPriority="high" />
+        <img src="/assets/img/real-estate-advice-carrired-through-delivery.jpeg" alt="" fetchPriority="high" />
         <div className="wrap">
           <span className="label">EDAS Group</span>
           <h1>Real estate advice, carried through to delivery.</h1>
@@ -71,7 +71,7 @@ export default function HeroCarousel() {
         </div>
       </div>
       <div {...slide(1)}>
-        <img src="/assets/img/hero-terrace.webp" alt="" loading={lazy(1)} />
+        <img src="/assets/img/asset-advisory.jpeg" alt="" loading={lazy(1)} />
         <div className="wrap">
           <span className="label">EDAS Asset Advisors</span>
           <p className="h1">Clarity at every stage of a real estate asset.</p>
@@ -82,7 +82,7 @@ export default function HeroCarousel() {
         </div>
       </div>
       <div {...slide(2)}>
-        <img src="/assets/img/site-hero-2.webp" alt="" loading={lazy(2)} />
+        <img src="/assets/img/land-to-landmark.jpeg" alt="" loading={lazy(2)} />
         <div className="wrap">
           <span className="label">EDAS Projects</span>
           <p className="h1">From land to landmark.</p>

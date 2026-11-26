@@ -10,7 +10,7 @@ export default function AdvisoryPage() {
   return (
     <>
       <section className="banner">
-        <img src="/assets/img/banner-plan.webp" alt="" fetchPriority="high" style={{ objectPosition: "right center" }} />
+        <img src="/assets/img/asset-advisory.jpeg" alt="" fetchPriority="high" style={{ objectPosition: "right center" }} />
         <div className="wrap">
           <span className="label">EDAS Asset Advisors</span>
           <h1>Clarity at every stage of a real estate asset.</h1>

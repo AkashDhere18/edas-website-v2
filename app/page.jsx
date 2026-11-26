@@ -68,7 +68,7 @@ export default function HomePage() {
               </div>
             </Link>
             <Link href="/construction" className="card">
-              <div className="media"><img src="/assets/img/site-p-site.webp" alt="Concrete frame of a building under construction" loading="lazy" /></div>
+              <div className="media"><img src="/assets/img/construction.jpeg" alt="Concrete frame of a building under construction" loading="lazy" /></div>
               <div className="body">
                 <span className="entity">EDAS Projects</span>
                 <h3>Turnkey construction</h3>
